@@ -1,4 +1,5 @@
 # Sample Application
+# Adding a comment
 
 The repository contains a simple Golang based application. The application used to demonstrate
 deployment and promotion process following GitOps methodology using various GitOps tools.
